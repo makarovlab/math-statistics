@@ -1,0 +1,100 @@
+{
+	"data_type": "dict",
+	"prediction": "unknown",
+	"value": {
+		"response": {
+			"data_type": "dict",
+			"prediction": "location",
+			"value": {
+				"stores": {
+					"data_type": "list",
+					"prediction": "location",
+					"value": [
+						{
+							"data_type": "dict",
+							"prediction": "location",
+							"value": {
+								"addr": {
+									"data_type": "str",
+									"prediction": "address",
+									"value": "Moscow, Smolnaya, 1"
+								},
+								"phoneNumber": {
+									"data_type": "str",
+									"prediction": "phone",
+									"value": "(967) 2874621"
+								},
+								"latitude": {
+									"data_type": "str",
+									"prediction": "lat",
+									"value": "47.3872"
+								},
+								"longitude": {
+									"data_type": "str",
+									"prediction": "lon",
+									"value": "12.8474"
+								},
+								"workHours": {
+									"data_type": "dict",
+									"prediction": "opening_hours",
+									"value": {
+										"Mon": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Tus": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Wed": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Thi": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Fri": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Sat": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										},
+										"Sun": {
+											"data_type": "str",
+											"prediction": "opening_hours",
+											"value": "8:00-18:00"
+										}
+									}
+								}
+							}
+						}
+					]
+				},
+				"userdata": {
+					"data_type": "str",
+					"prediction": "unknown",
+					"value": "session-uuid"
+				},
+				"token": {
+					"data_type": "int",
+					"prediction": "unknown",
+					"value": 13726
+				},
+				"newuser": {
+					"data_type": "bool",
+					"prediction": "unknown",
+					"value": true
+				}
+			}
+		}
+	}
+}

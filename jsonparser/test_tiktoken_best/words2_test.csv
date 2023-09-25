@@ -1,0 +1,20 @@
+text,label
+emailAddress,email
+open hour,opening_hours
+worktime,opening_hours
+str,street
+addr,address
+dasdfasd,unknown
+category,unknown
+contry,country
+stata,state
+regiono,state
+phoneNumner,phone
+phone,phone
+phoneNumber,phone
+mon,opening_hours
+open,opening_hours
+sat,opening_hours
+streetNum,housenumber
+srtests,unknown
+feature,location
